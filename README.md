@@ -70,7 +70,9 @@
 
 ---
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ezatrashad&" alt="ezatrashad" /></p>
+
+---
 Let me know if you need further refinements! 😊
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ezatrashad&" alt="ezatrashad" /></p>
 
