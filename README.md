@@ -16,8 +16,7 @@
 - 💡 **Interests:** Mobile App Development, UI/UX Design, Problem Solving  
 - 💬 **Ask me about:** Flutter, Dart, Mobile Development, or anything tech-related!  
 - 📫 **Reach me at:** [ezatrashad2003@gmail.com](mailto:ezatrashad2003@gmail.com)  
-- 📄 **Resume:** [View my CV]([https://drive.google.com/file/d/1B-eejzIIzBXqBgEMkm2OyJAhmuGjUhPN/view?usp=drive_link](https://drive.google.com/file/d/1jnRAkzg6L7KMBJ53enx_V8qiIK3V3-sL/view?usp=sharing))  
-
+- 📄 **Resume:** [View my CV](https://drive.google.com/file/d/1jnRAkzg6L7KMBJ53enx_V8qiIK3V3-sL/view?usp=sharing)  
 ---
 
 ### 🌐 Let's Connect  
